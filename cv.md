@@ -39,3 +39,24 @@ I consider one of my strong qualities to be quick assimilation of material, comm
             return View(model);
         }
 ```
+
+### Experience:
+#### Client server web app implemented ASP.NET Core MVC С#. 
+##### Project goals: Creating a cross-platform web application for automating the work of the university administration. 
+##### The major: 
+-  User Authentication System. 
+-  Link emails between users. 
+-  Graphical interface (HTML,JS) for working with the MySQL. 
+-  Database Analysis and calculation of academic performance of faculties by several parameters 
+-  Access ranking system
+-  Admin panel.
+##### Technologies used: C#, JS ,HTML ,JQuery, MySQL.
+*https://github.com/mir97/Rectotar
+        
+### Education:
+-  GOMEL STATE TECHNICAL UNIVERSITY NAMED AFTER P. O. SUKHOI Gomel/Belarus 01.09.2015 – 30.06.2019 BS (ENGINEERING PROGRAMMER)
+-  RS-School JS/FE 2021Q1 online 08.02.2021 – present
+
+### English level:
+Different tests give me a rating A2. I think realy my English is between A1 and A2. I continue to study.
+
