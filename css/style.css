@@ -1,0 +1,78 @@
+body{
+    width: 1400px;
+    margin: 0 auto;
+}
+
+.container{
+    width: 1350px;
+    margin:0 auto;
+}
+
+.color_white{
+    color: #e7e7e7;
+}
+
+.font_wiegth{
+    font-weight: 700;
+}
+
+.l_padding-botom{
+    padding-bottom: 15px;
+}
+
+.l_title{
+    font-size: 48px;
+}
+
+header{
+    width: 100%;
+    background-color: #373434;
+    padding-top: 30px;
+}
+.header__content{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.header_img>img{
+    width: 100%;
+}
+.header__title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.footer__example-code,.footer__education,.experience__work, .experience__education, .description__links, .description__biography{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+}
+
+.description{
+    width: 100%;
+    padding-top: 20px;
+}
+
+.experience{
+    width: 100%;
+    padding-top: 20px;
+}
+
+.experience__content,.footer__content,.description__content{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer{
+    width: 100%;
+}
+
+.footer__content{
+    width: 100%;
+}
